@@ -1,6 +1,8 @@
 # Github raw codes for recent publications
 This repository contains links to repositories related lab publications
 
+Deconvolving human neuronal development using mosaic mutations, [Codes](https://github.com/shishenyxx/Human_Interneuron)
+
 Comprehensive multi-omic profiling of somatic mutations in malformations of cortical development. 2023. ([Nature Genetics](https://www.nature.com/articles/s41588-022-01276-9)), [Codes](https://github.com/shishenyxx/MCD_mosaic)
 
 Control-independent mosaic single nucleotide variant detection with DeepMosaic. 2023. ([Nature Biotechnology](https://www.nature.com/articles/s41587-022-01559-w)), [Codes](https://github.com/shishenyxx/DeepMosaic)
