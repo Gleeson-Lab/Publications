@@ -1,9 +1,11 @@
 # Github raw codes for recent publications
 This repository contains links to repositories related lab publications
 
-Understanding the de novo mutations causing meningomyelocele, [Codes](https://github.com/Gleeson-Lab/MM_DNM)
+Understanding human neuronal development between dorsal root ganglia and sympathetic ganglia chains, 2024. [Codes](https://github.com/shishenyxx/Human_DRG_SG)
 
-Cell-type-resolved somatic mosaicism reveals clonal dynamics of the human forebrain. 2023. ([bioRxiv](https://www.biorxiv.org/content/10.1101/2023.10.24.563814v2.full)), [Codes](https://github.com/shishenyxx/Human_Interneuron)
+Understanding the de novo mutations causing meningomyelocele, 2024. ([medRxiv](https://www.medrxiv.org/content/10.1101/2024.02.28.24303390v1)), [Codes](https://github.com/Gleeson-Lab/MM_DNM)
+
+Cell-type-resolved mosaicism reveals clonal dynamics of the human forebrain. 2024. ([Nature](https://www.nature.com/articles/s41586-024-07292-5)), [Codes](https://github.com/shishenyxx/Human_Interneuron)
 
 Comprehensive multi-omic profiling of somatic mutations in malformations of cortical development. 2023. ([Nature Genetics](https://www.nature.com/articles/s41588-022-01276-9)), [Codes](https://github.com/shishenyxx/MCD_mosaic)
 
