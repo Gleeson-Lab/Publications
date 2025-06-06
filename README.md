@@ -3,7 +3,7 @@ This repository contains links to repositories related lab publications
 
 The contribution of de novo coding mutations to meningomyelocele, 2025. ([Nature](https://www.nature.com/articles/s41586-025-08676-x)), [Codes](https://github.com/Gleeson-Lab/MM_DNM)
 
-Understanding human neuronal development between dorsal root ganglia and sympathetic ganglia chains, 2024. [Codes](https://github.com/shishenyxx/Human_DRG_SG)
+Understanding human neuronal development between dorsal root ganglia and sympathetic ganglia chains, 2024. ([bioRxiv](https://www.biorxiv.org/content/10.1101/2024.09.25.615004v1))[Codes](https://github.com/shishenyxx/Human_DRG_SG)
 
 Cell-type-resolved mosaicism reveals clonal dynamics of the human forebrain. 2024. ([Nature](https://www.nature.com/articles/s41586-024-07292-5)), [Codes](https://github.com/shishenyxx/Human_Interneuron)
 
